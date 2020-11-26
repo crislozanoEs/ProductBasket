@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/cristianlozano/Documents/Proyectos/ProductBasket/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/quick_bucket_fragment.xml",
+        "source": "/Users/cristianlozano/Documents/Proyectos/ProductBasket/app/src/main/res/layout/quick_bucket_fragment.xml"
+    },
+    {
+        "merged": "/Users/cristianlozano/Documents/Proyectos/ProductBasket/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_main.xml",
+        "source": "/Users/cristianlozano/Documents/Proyectos/ProductBasket/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/cristianlozano/Documents/Proyectos/ProductBasket/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/add_product_fragment.xml",
+        "source": "/Users/cristianlozano/Documents/Proyectos/ProductBasket/app/src/main/res/layout/add_product_fragment.xml"
+    }
+]

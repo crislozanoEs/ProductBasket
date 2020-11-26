@@ -1,0 +1,39 @@
+com/crisav2/productbasket/DataBindingTriggerClass.java
+ com.crisav2.productbasket.DataBindingTriggerClass
+com/crisav2/productbasket/DataBinderMapperImpl.java
+ com.crisav2.productbasket.DataBinderMapperImpl
+ com.crisav2.productbasket.DataBinderMapperImpl$InnerBrLookup
+ com.crisav2.productbasket.DataBinderMapperImpl$InnerLayoutIdLookup
+androidx/databinding/DataBinderMapperImpl.java
+ androidx.databinding.DataBinderMapperImpl
+com/crisav2/productbasket/databinding/ActivityMainBindingImpl.java
+ com.crisav2.productbasket.databinding.ActivityMainBindingImpl
+androidx/databinding/library/baseAdapters/BR.java
+ androidx.databinding.library.baseAdapters.BR
+com/crisav2/productbasket/BuildConfig.java
+ com.crisav2.productbasket.BuildConfig
+com/crisav2/productbasket/databinding/QuickBucketFragmentBinding.java
+ com.crisav2.productbasket.databinding.QuickBucketFragmentBinding
+com/crisav2/productbasket/BR.java
+ com.crisav2.productbasket.BR
+com/crisav2/productbasket/databinding/ActivityMainBinding.java
+ com.crisav2.productbasket.databinding.ActivityMainBinding
+com/crisav2/productbasket/databinding/QuickBucketFragmentBindingImpl.java
+ com.crisav2.productbasket.databinding.QuickBucketFragmentBindingImpl
+androidx/databinding/DataBindingComponent.java
+ androidx.databinding.DataBindingComponent
+com/crisav2/productbasket/databinding/AddProductFragmentBinding.java
+ com.crisav2.productbasket.databinding.AddProductFragmentBinding
+com/crisav2/productbasket/databinding/AddProductFragmentBindingImpl.java
+ com.crisav2.productbasket.databinding.AddProductFragmentBindingImpl
+ com.crisav2.productbasket.databinding.AddProductFragmentBindingImpl$1
+ com.crisav2.productbasket.databinding.AddProductFragmentBindingImpl$10
+ com.crisav2.productbasket.databinding.AddProductFragmentBindingImpl$11
+ com.crisav2.productbasket.databinding.AddProductFragmentBindingImpl$2
+ com.crisav2.productbasket.databinding.AddProductFragmentBindingImpl$3
+ com.crisav2.productbasket.databinding.AddProductFragmentBindingImpl$4
+ com.crisav2.productbasket.databinding.AddProductFragmentBindingImpl$5
+ com.crisav2.productbasket.databinding.AddProductFragmentBindingImpl$6
+ com.crisav2.productbasket.databinding.AddProductFragmentBindingImpl$7
+ com.crisav2.productbasket.databinding.AddProductFragmentBindingImpl$8
+ com.crisav2.productbasket.databinding.AddProductFragmentBindingImpl$9

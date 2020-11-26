@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">ProductBasket</string>
+    <string name="total_to_pay_label">Total to pay:</string>
+    <string name="total_products_label">Total products:</string>
+    <string name="add_products">Add products</string>
+    <string name="product_hint">Product</string>
+    <string name="brand_hint">Brand</string>
+    <string name="add_product">Add product</string>
+    <string name="amount_hint">Amount</string>
+    <string name="price_hint">Price per Unit</string>
+    <string name="discount_hint">Has discount?</string>
+    <string name="discount_1_hint">Percentage</string>
+    <string name="discount_2_hint">Buy X get Y</string>
+    <string name="percentage_symbol">%</string>
+    <string name="times_symbol">X</string>
+    <string name="add_product_label">Add product</string>
+    <string name="cancel_product_label">Cancel</string>
+    <string name="total_product_label">Total:</string>
+</resources>

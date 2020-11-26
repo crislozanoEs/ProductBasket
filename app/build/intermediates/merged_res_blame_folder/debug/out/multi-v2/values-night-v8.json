@@ -1,0 +1,62 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/cristianlozano/Documents/Proyectos/ProductBasket/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-night-v8/values-night-v8.xml",
+            "map": [
+                {
+                    "source": "/Users/cristianlozano/.gradle/caches/transforms-2/files-2.1/f3799869b41c9c7df8b313bab7d55c4e/appcompat-1.2.0/res/values-night-v8/values-night-v8.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,125,209,293,389,491,593,687",
+                        "endColumns": "69,83,83,95,101,101,93,88",
+                        "endOffsets": "120,204,288,384,486,588,682,771"
+                    },
+                    "to": {
+                        "startLines": "15,16,17,18,19,20,21,30",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "845,915,999,1083,1179,1281,1383,2359",
+                        "endColumns": "69,83,83,95,101,101,93,88",
+                        "endOffsets": "910,994,1078,1174,1276,1378,1472,2443"
+                    }
+                },
+                {
+                    "source": "/Users/cristianlozano/Documents/Proyectos/ProductBasket/app/src/main/res/values-night/themes.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "100",
+                        "endLines": "14",
+                        "endColumns": "12",
+                        "endOffsets": "842"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "100",
+                        "endLines": "14",
+                        "endColumns": "12",
+                        "endOffsets": "840"
+                    }
+                },
+                {
+                    "source": "/Users/cristianlozano/.gradle/caches/transforms-2/files-2.1/b75aeddd6f5af90e2afac0eea405e9a0/material-1.1.0-alpha06/res/values-night-v8/values-night-v8.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,143,267,369,471,585,705,825,937",
+                        "endColumns": "87,123,101,101,113,119,119,111,137",
+                        "endOffsets": "138,262,364,466,580,700,820,932,1070"
+                    },
+                    "to": {
+                        "startLines": "22,23,24,25,26,27,28,29,31",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "1477,1565,1689,1791,1893,2007,2127,2247,2448",
+                        "endColumns": "87,123,101,101,113,119,119,111,137",
+                        "endOffsets": "1560,1684,1786,1888,2002,2122,2242,2354,2581"
+                    }
+                }
+            ]
+        }
+    ]
+}
